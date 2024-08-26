@@ -1,3 +1,7 @@
+<a target="_blank" href="https://colab.research.google.com/github/y-h-Lin/CYCU-TCM/blob/main/RAG_TCM.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a><br />
+
 # Medical AI Assistant for Taipei City Hospital
 
 This Python script implements an AI-powered medical assistant specifically designed for Taipei City Hospital's Traditional Chinese Medicine (TCM) department. It utilizes advanced natural language processing techniques to provide accurate and informative responses to patient queries.
