@@ -1,5 +1,3 @@
-Here's an English README for your script:
-
 # Medical AI Assistant for Taipei City Hospital
 
 This Python script implements an AI-powered medical assistant specifically designed for Taipei City Hospital's Traditional Chinese Medicine (TCM) department. It utilizes advanced natural language processing techniques to provide accurate and informative responses to patient queries.
